@@ -1,0 +1,273 @@
+de.wikipedia.org###p-Mitmachen
+##.mw-footer
+//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Disambig-dark.svg/25px-Disambig-dark.svg.png
+de.wikipedia.org###bksicon > img
+##.mw-editsection
+###pt-mycontris > a > span
+##.mw-wiki-logo
+de.wikipedia.org###ca-talk > a
+de.wikipedia.org###ca-nstab-main > a
+de.wikipedia.org###ca-history > a
+de.wikipedia.org###ca-edit > a
+de.wikipedia.org###ca-ve-edit
+de.wikipedia.org###ca-view > a
+de.wikipedia.org###p-cactions
+de.wikipedia.org###pt-notifications-alert
+de.wikipedia.org###pt-notifications-notice
+de.wikipedia.org###pt-mytalk > a.new
+de.wikipedia.org###pt-preferences
+de.wikipedia.org###pt-watchlist
+##.mw-indicator
+de.wikipedia.org###pt-logout > a
+de.wikipedia.org###p-lang > button.uls-settings-trigger:first-child
+de.wikipedia.org###p-lang > div.vector-menu-content:last-child > div.after-portlet.after-portlet-lang:last-child
+de.wikipedia.org###toc > div.toctitle:nth-child(2) > span.toctogglespan:last-child
+##.toctogglespan
+##.internal
+de.wikipedia.org###p-lang-label
+###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child > li.interlanguage-link.interwiki-es.mw-list-item:nth-child(9)
+###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child > li.interlanguage-link.interwiki-da.mw-list-item:nth-child(6)
+###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child > li.interlanguage-link.interwiki-en.mw-list-item:nth-child(7)
+###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child > li.interlanguage-link.interwiki-it.mw-list-item:nth-child(16)
+de.wikipedia.org###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child > li.interlanguage-link.interwiki-nl.mw-list-item:nth-child(20)
+de.wikipedia.org###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child > li.interlanguage-link.interwiki-hr.mw-list-item:nth-child(14)
+de.wikipedia.org###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child > li.interlanguage-link.interwiki-tr.mw-list-item:nth-child(31)
+de.wikipedia.org###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child > li.interlanguage-link.interwiki-pl.mw-list-item:nth-child(24)
+###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child > li.interlanguage-link.interwiki-ru.mw-list-item:nth-child(26)
+###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child > li.interlanguage-link.interwiki-en.mw-list-item:nth-child(40)
+###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child > li.interlanguage-link.interwiki-en.mw-list-item:nth-child(31) > a.interlanguage-link-target > span
+###p-lang > div.vector-menu-content:last-child > ul.vector-menu-content-list:first-child
+###p-lang
+startpage.com###privacy-please-button
+startpage.com##div.layout:nth-child(5) > div.layout-web.layout-web--default:nth-child(2) > div.layout-web__footer:nth-child(3) > div.footer.footer--default:last-child > div.footer__container
+startpage.com###feedback-button
+startpage.com###root > div.App > div.Layout > header.css-vjs3o0:first-child > div.header-inner-container.css-4seghe:first-child > div.menus.css-1g8onkz:last-child > div.blog-menu.css-1fvw582:first-child
+startpage.com###root > div.App > div.Layout > div.css-s1siwp:last-child > div.css-1x0a69k:nth-child(2)
+startpage.com###root > div.App > div.Layout > div.css-s1siwp:last-child > div.css-85x1d6:first-child
+startpage.com###root > div.App > div.Layout > div.css-s1siwp:last-child > div.social.css-gjnk9i:nth-child(3)
+startpage.com##div.layout:nth-child(5) > div.layout-video.layout-video--default:last-child > div.layout-video__footer:nth-child(3) > div.footer.footer--default:last-child > div.footer__container > div.footer__links:nth-child(2)
+startpage.com##div.layout:nth-child(5) > div.layout-video.layout-video--default:last-child > div.layout-video__footer:nth-child(3) > div.footer.footer--default:last-child > div.footer__container > div.footer__social:nth-child(3)
+startpage.com##div.layout:nth-child(5) > div.layout-video.layout-video--default:last-child > div.layout-video__footer:nth-child(3) > div.footer.footer--default:last-child > div.footer__container > div.footer__w-desktop:first-child > a.footer__blog-widget
+ebay-kleinanzeigen.de###home-gallery
+ebay-kleinanzeigen.de###home-ads
+ebay-kleinanzeigen.de###home-feed > ul.tilelist:first-child
+ebay-kleinanzeigen.de###home-cntnt
+ebay-kleinanzeigen.de##.aditem-main--top--right
+ebay-kleinanzeigen.de###srchrslt-content > div.srp-header.a-padded.l-container-row.contentbox:first-child > div > div.l-container-row.contentbox.j-follow-search > header.splitheader-centered > div.splitheader--title.icon-headline-medium.box-iconbox:first-child > div:last-child
+ebay-kleinanzeigen.de###site-signin
+ebay-kleinanzeigen.de###site-footer > p.text-light:nth-child(2) > small
+ebay-kleinanzeigen.de###site-footer-nav > ul.flexlist.is-top-aligned.l-container-row
+ebay-kleinanzeigen.de##.icon, .icon-small, .icon-pin
+##.header__logo-wrap, .js-header-logo
+##.sidebar-content
+###page > div.container > div.main > div.main-inner.group > div:last-child
+##.a-gl-tp, .a-gl-tp--desktop
+aphilia.de###toplinks
+amazon.de###universal-detail-ilm > div.a-section.a-spacing-none.uilm-section
+amazon.de###dp > div.celwidget:nth-child(4)
+amazon.de###universalHQP_feature_div
+amazon.de###tellAFriendBylineBox_feature_div
+amazon.de###moreBuyingChoices_feature_div
+amazon.de###kcpApp_feature_div
+amazon.de###redeemCode_feature_div
+amazon.de###icp-nav-flyout > span.icp-nav-link-inner > span.nav-line-2:last-child > span.icp-nav-flag.icp-nav-flag-de:first-child
+amazon.de###nav-cart-count-container
+amazon.de###tmmSwatches > ul.a-unordered-list.a-nostyle.a-button-list.a-horizontal > li.swatchElement.unselected:nth-child(2) > span.a-list-item > span.tmm-olp-links:last-child
+amazon.de###tmmSwatches > ul.a-unordered-list.a-nostyle.a-button-list.a-horizontal > li.swatchElement.unselected:nth-child(3) > span.a-list-item > span.tmm-olp-links:last-child
+amazon.de###deliverTo
+amazon.de###consumerDigitalBulkBuyBox > div.a-box-inner.a-padding-base > form.digital-bulk-form > div.a-row.a-spacing-small:first-child > span.a-size-base:last-child
+amazon.de###buybox > div.a-box-inner.a-padding-base > table.a-lineitem.a-spacing-micro:first-child > tbody:last-child > tr.print-sold-by:last-child
+amazon.de###buybox > div.a-box-inner.a-padding-base > table.a-lineitem.a-spacing-micro:first-child > tbody:last-child > tr.vat-delivery-message:nth-child(2)
+amazon.de###tmmSwatches > ul.a-unordered-list.a-nostyle.a-button-list.a-horizontal > li.swatchElement.unselected.resizedSwatchElement:last-child > span.a-list-item > span.tmm-olp-links:last-child
+amazon.de###tmmSwatches > ul.a-unordered-list.a-nostyle.a-button-list.a-horizontal > li.swatchElement.selected.resizedSwatchElement:first-child > span.a-list-item > span.a-size-mini.a-color-secondary.tmm-olp-links:nth-child(3)
+amazon.de###desktop-top-banner-stripe
+amazon.de###navFooter > div.navFooterLine.navFooterLinkLine.navFooterDescLine:nth-child(5)
+amazon.de###gw-desktop-herotator > div.a-begin.a-carousel-container.a-carousel-display-single.a-carousel-transition-slideCircular.gw-desktop-herotator.a-carousel-initialized > div.a-row.a-carousel-controls.a-carousel-row.a-carousel-has-buttons.a-carousel-overlay-buttons.a-carousel-rounded-buttons:nth-child(2) > div.a-carousel-row-inner
+amazon.de###nav-search-bar-form > div.nav-right:last-child > div.nav-search-submit.nav-sprite
+amazon.de###nav-xshop
+amazon.de###nav-progressive-subnav
+amazon.de##.smallAuthorImage
+amazon.de###editorialReviews_feature_div > div.a-divider.a-divider-section:first-child > div.a-divider-inner
+amazon.de###authorFollow_feature_div
+amazon.de###CardInstanceUmJ0PKdB32Ys04Xu9ZmMFw > div.shoppingCxFeedbackRootWidget > div._shopping-cx-feedback-widget_style_shopping-cx-feedback-widget__3OJWU
+amazon.de##._cDEzb_p13n-sc-css-line-clamp-4_2oUlo, .p13n-sc-truncate-fallback, .p13n-sc-line-clamp-4, .p13n-sc-truncate-desktop-type2
+amazon.de##._cDEzb_p13n-sc-css-line-clamp-1_2o7X6
+amazon.de###dp-summary-share-your-thoughts
+amazon.de###cm_cr_dp_d_write_review > h3.a-spacing-micro:first-child
+amazon.de###reviewsMedley > div.a-fixed-left-grid-inner > div.a-fixed-left-grid-col.a-col-left:first-child > hr.a-spacing-extra-large.a-spacing-top-extra-large.a-divider-normal:nth-child(8)
+amazon.de###reviewsMedley > div.a-fixed-left-grid-inner > div.a-fixed-left-grid-col.a-col-left:first-child > div.a-row:first-child > h2
+amazon.de###cm-cr-local-reviews-title
+amazon.de###cm-cr-dp-review-sort-type
+amazon.de###morpheus-sidesheet-ingress > a.a-size-small.a-spacing-small.a-spacing-top-micro.a-link-normal._morpheus-popularity-rank-sidesheet-card_ingress_saf-link__2TS-U
+amazon.de###rhf-container > div.rhf-border
+amazon.de###navFooter > div.navFooterLine.navFooterLinkLine.navFooterPadItemLine:nth-child(4) > span:first-child > div.navFooterLine.navFooterLogoLine
+###heimdallShoppingCxFeedback_feature_div
+###dp-ads-center-promo_feature_div
+###reviews-image-gallery-container > div.a-row:first-child > h3
+###cr-dp-desktop-lighthut
+amazon.de##.a-size-mini, .a-color-base
+###rightRail
+###sellYoursHere_feature_div
+###booksAdditionalPriceInfoContainer
+###alternativeProductMessage_div
+###CardInstance-xlDdbGTsIsSorAl_gFcyg > div.cardRoot.bucket > form:last-child > div.a-cardui._p13n-desktop-sims-fbt_fbt-desktop_sims-fbt-containter__2Cffh > div._p13n-desktop-sims-fbt_fbt-desktop_action-details__18ZiI:nth-child(2)
+###detailBulletsWrapper_feature_div > ul.a-unordered-list.a-nostyle.a-vertical.a-spacing-none.detail-bullet-list:nth-child(4)
+###CardInstance-xlDdbGTsIsSorAl_gFcyg > div.cardRoot.bucket > form:last-child > div.a-cardui._p13n-desktop-sims-fbt_fbt-desktop_sims-fbt-containter__2Cffh > div._p13n-desktop-sims-fbt_fbt-desktop_sims-fbt-rows__2LJXs:last-child
+###shippingMessageInsideBuyBox_feature_div
+###secureTransaction_feature_div
+###CardInstanceglD5sbPGHpRpu2UJwtulEQ > div.cardRoot.bucket > form:last-child > div.a-cardui._p13n-desktop-sims-fbt_fbt-desktop_sims-fbt-containter__2Cffh > div._p13n-desktop-sims-fbt_fbt-desktop_sims-fbt-rows__2LJXs:last-child
+###books-entity-teaser
+##._p13n-desktop-sims-fbt_fbt-desktop_sims-fbt-rows__2LJXs
+###contextualIngressPtPin
+###selectQuantity > span.a-declarative > div.a-row.a-spacing-base > div.a-column.a-span12.a-text-left > span.a-dropdown-container:last-child > label.a-native-dropdown:first-child
+###shipsFromSoldByInsideBuyBox_feature_div
+###audible-carousel-pdp_feature_div
+###aud_bottom_row
+###bylineInfo > span.author.notFaded:last-child > span.contribution:last-child
+###anonCarousel3 > ol.a-carousel > li.a-carousel-card.rpi-carousel-attribute-card:first-child > div.a-section.rpi-attribute-content > div.a-section.a-spacing-small.a-text-center.rpi-attribute-label:first-child
+###anonCarousel3 > ol.a-carousel > li.a-carousel-card.rpi-carousel-attribute-card:nth-child(3) > div.a-section.rpi-attribute-content > div.a-section.a-spacing-small.a-text-center.rpi-attribute-label:first-child > span
+###anonCarousel3 > ol.a-carousel > li.a-carousel-card.rpi-carousel-attribute-card:nth-child(2) > div.a-section.rpi-attribute-content > div.a-section.a-spacing-small.a-text-center.rpi-attribute-label:first-child
+###anonCarousel3 > ol.a-carousel > li.a-carousel-card.rpi-carousel-attribute-card:nth-child(3) > div.a-section.rpi-attribute-content > div.a-section.a-spacing-small.a-text-center.rpi-attribute-label:first-child
+###imgThumbs > span.thumb-text.thumb:last-child
+###anonCarousel3 > ol.a-carousel > li.a-carousel-card.rpi-carousel-attribute-card:nth-child(4) > div.a-section.rpi-attribute-content > div.a-section.a-spacing-small.a-text-center.rpi-attribute-label:first-child
+###anonCarousel3 > ol.a-carousel > li.a-carousel-card.rpi-carousel-attribute-card:nth-child(6) > div.a-section.rpi-attribute-content > div.a-section.a-spacing-small.a-text-center.rpi-attribute-label:first-child
+###anonCarousel3 > ol.a-carousel > li.a-carousel-card.rpi-carousel-attribute-card:nth-child(5) > div.a-section.rpi-attribute-content > div.a-section.a-spacing-small.a-text-center.rpi-attribute-label:first-child
+###anonCarousel3 > ol.a-carousel > li.a-carousel-card.rpi-carousel-attribute-card:nth-child(7) > div.a-section.rpi-attribute-content > div.a-section.a-spacing-small.a-text-center.rpi-attribute-label:first-child
+###edpIngress_feature_div
+###productSubtitle
+###bbop > a.prime-details.a-declarative:first-child
+###addToWishlist_feature_div > hr.a-spacing-base.a-divider-normal:first-child
+###mir-layout-DELIVERY_BLOCK-slot-PRIMARY_DELIVERY_MESSAGE_LARGE > span > a.a-link-normal:first-child
+###bbop_feature_div
+###detailPageGifting_feature_div > div.a-checkbox.a-spacing-base
+###similarities_feature_div
+###detailBullets_feature_div
+###a-autoid-7-announce > span.audible_mm_title:first-child > span > span:first-child
+###tellAFriendBox_feature_div
+###rich_product_information > div.a-begin.a-carousel-container.a-carousel-display-stretchyGoodness.a-carousel-transition-slide.a-spacing-none.rpi-section.rpi-section-iconic.a-carousel-initialized:last-child > div.a-row.a-carousel-controls.a-carousel-row.a-carousel-has-buttons:nth-child(2) > div.a-carousel-row-inner > div.a-carousel-col.a-carousel-right:last-child
+###addToCart > hr.a-spacing-base.a-divider-normal:nth-child(27)
+###flipAndSampleAudio
+###cipInsideDeliveryBlock_feature_div
+###a-autoid-11-announce > span.audible_mm_title:first-child > span > span:first-child
+###histogramTable > tbody > tr.a-histogram-row.a-align-center:first-child > td.aok-nowrap:first-child
+###a-autoid-6-announce > span.audible_mm_title:first-child > span > span:first-child
+https://images-na.ssl-images-amazon.com/images/G/03/Audible/Homestead/logo/audiblelogo._CB482869198_.png$domain=amazon.de
+###bylineInfo > span.author.notFaded:last-child > span.a-declarative:first-child > a.a-popover-trigger.a-declarative:last-child
+###acrPopover > span.a-declarative:first-child > a.a-popover-trigger.a-declarative > i.a-icon.a-icon-popover:last-child
+amazon.de###bylineInfo > span.author.notFaded:nth-child(2) > span.a-declarative:first-child > a.a-popover-trigger.a-declarative:last-child
+###histogramTable > tbody > tr.a-histogram-row.a-align-center:nth-child(2) > td.aok-nowrap:first-child
+###histogramTable > tbody > tr.a-histogram-row.a-align-center:nth-child(3) > td.aok-nowrap:first-child
+amazon.de###histogramTable > tbody > tr.a-histogram-row.a-align-center:nth-child(4) > td.aok-nowrap:first-child
+###histogramTable > tbody > tr.a-histogram-row.a-align-center:last-child > td.aok-nowrap:first-child
+###reviewsMedley > div.a-fixed-left-grid-inner > div.a-fixed-left-grid-col.a-col-left:first-child > span.cr-widget-Histogram:nth-child(3) > div.a-row.a-expander-container.a-spacing-top-small.a-expander-inline-container:last-child
+###CardInstance-j5d_R3kh4slTXO4ZzxD3g > div:nth-child(3)
+###chartsBadge_feature_div
+###customer_review-R3PS6JQ2RVYU9K > span.a-size-base.a-color-secondary.review-date:nth-child(3)
+###editorialReviews_feature_div > div.a-section.a-spacing-small.a-padding-base:last-child > div.a-row.a-expander-container.a-expander-extend-container > div.a-row:last-child > a.a-expander-header.a-declarative.a-expander-extend-header > i.a-icon.a-icon-extender-expand:first-child
+###editorialReviews_feature_div > div.a-section.a-spacing-small.a-padding-base:last-child > div.a-row.a-expander-container.a-expander-extend-container > div.a-row:last-child > a.a-expander-header.a-declarative.a-expander-extend-header > span.a-expander-prompt:last-child
+###bookDescription_feature_div > div.a-expander-collapsed-height.a-row.a-expander-container.a-spacing-base.a-expander-partial-collapse-container > div.a-expander-header.a-expander-partial-collapse-header:last-child > a.a-declarative:last-child > span.a-expander-prompt:last-child
+##.a-profile-avatar
+##.a-profile-name
+##.a-expander-prompt
+###anonCarousel4 > ol.a-carousel > li.a-carousel-card._about-the-author-card_style_carouselElement__2wagQ:first-child > div.a-section > div.a-fixed-left-grid > div.a-fixed-left-grid-inner > div.a-fixed-left-grid-col.a-col-left:first-child > div.a-section.a-text-center.followButtonColumn:last-child
+###anonCarousel4 > ol.a-carousel > li.a-carousel-card._about-the-author-card_style_carouselElement__2wagQ:last-child > div.a-section > div.a-fixed-left-grid > div.a-fixed-left-grid-inner > div.a-fixed-left-grid-col.a-col-left:first-child > div.a-section.a-text-center.followButtonColumn:last-child
+###moreAboutTheAuthorCard_feature_div
+###zeitgeistBadge_feature_div
+###histogramTable > tbody > tr.a-histogram-row:nth-child(2) > td.a-nowrap:first-child
+amazon.de###histogramTable > tbody > tr.a-histogram-row:nth-child(3) > td.a-nowrap:first-child
+amazon.de###histogramTable > tbody > tr.a-histogram-row:nth-child(4) > td.a-nowrap:first-child
+###rich_product_information > hr.a-spacing-none.a-divider-normal:first-child
+###gw-card-layout > div.a-section.a-spacing-none.gw-col.gw-fixed-col.gw-card-layout:nth-child(5)
+##.a-nowrap
+###bylineInfo > span.a-color-secondary:nth-child(5)
+##.a-color-secondary
+###FeedbackAgent_feature_div
+##.cr-footer-line-height
+###nav-logo
+###bookslegalcompliancebanner_feature_div
+###media-container > div.media-extra:last-child
+southpark.de###app > header.header--base.header--series.header--series-content:nth-child(4) > div.header > div.container > div.header-container > div.title-container:nth-child(3) > div.menu2-wrap:last-child > nav.tier2-nav:last-child > div.nav-item.css-hqv1nm-Box-StyledNavigationItem.e6ueu850:last-child > div.css-cqmi9v-Box.e6ckc7d0 > a.about.e6ueu851.css-k2qh3j-StyledTypography-StyledNavLink.e1wje7qk0 > div
+###jp-post-flair > div.sharedaddy.sd-sharing-enabled:first-child > div.robots-nocontent.sd-block.sd-social.sd-social-icon.sd-sharing
+###__top_banner_img__ > a
+##div:nth-child(17) > div.drogue-poplayer-modal
+###home-firstscreen > div.container > div.home-firstscreen-main > div.advertise-main:nth-child(3) > div.ranking-main:last-child > div._3b77i
+aliexpress.com###home-firstscreen > div.container > div.home-firstscreen-main > div.advertise-main:nth-child(3) > div.banner-main:first-child > div.exn6E
+###root > div.MexE9.global-sale-module-2399035.theme-v2-block.theme-v2-first:nth-child(2) > div.sale-space > div._3e0Fq.container > a > img
+##div.dialog:nth-child(3) > div.dialog-main:first-child > div.dialog-left:nth-child(2) > div.premium-promo:first-child
+###alternatives > div:nth-child(3)
+##div.dialog:nth-child(3) > div.dialog-main:first-child > div.dialog-right:nth-child(3) > div:last-child > a > img
+###categories > form.form-inline.hidemobile:nth-child(2)
+##.img-polaroid
+###alternatives > div:nth-child(2) > a
+###premium-top
+##div.dialog:nth-child(3) > div.dialog-main:first-child > div.dialog-left:nth-child(2) > div.premium-promo:nth-child(2)
+##div.dialog:nth-child(3) > div.dialog-main:first-child > div.dialog-right:nth-child(3) > div.mr-1.mb-2:nth-child(2)
+###similar-files > span.hidemobile:first-child
+###ask-yourself > strong:first-child > i.fas.fa-question-circle
+##.new
+###previewButtonMain
+##div.dialog:nth-child(3) > div.dialog-main:first-child > div.dialog-left:nth-child(2) > div.premium-promo:last-child
+###footer > div.footer-section:nth-child(3)
+###alternatives > div.text-center:first-child > div.btn-group > a.btn.btn-primary.btn-user:first-child > i.fas.fa-cloud-download-alt
+##div.dialog:nth-child(3) > div.dialog-main:first-child > div.dialog-left:nth-child(2) > div.quotes:nth-child(5)
+###ask-yourself-next
+##div.dialog:nth-child(3) > div.dialog-main:first-child > div.dialog-right:nth-child(2) > div:nth-child(7)
+###js_image_selection
+###welcome
+youtube.com###container > yt-formatted-string.super-title.style-scope.ytd-video-primary-info-renderer:nth-child(3)
+youtube.com###clarify-box
+youtube.com###channel-name > ytd-badge-supported-renderer.style-scope.ytd-channel-name:last-child
+youtube.com###metadata-line > span.style-scope.ytd-video-meta-block:nth-child(2)
+youtube.com###sort-menu
+youtube.com###count
+youtube.com###subscribe-button
+youtube.com###owner-sub-count
+youtube.com###top-level-buttons-computed > ytd-toggle-button-renderer.style-scope.ytd-menu-renderer.force-icon-button.style-text:nth-child(2)
+youtube.com###button > yt-icon.style-scope.ytd-button-renderer
+youtube.com###voice-search-button
+youtube.com###items > ytd-compact-radio-renderer.style-scope.ytd-watch-next-secondary-results-renderer.use-ellipsis:nth-child(8)
+youtube.com###content > ytd-rich-grid-media.style-scope.ytd-rich-item-renderer
+youtube.com###primary > ytd-rich-grid-renderer.style-scope.ytd-two-column-browse-results-renderer
+youtube.com###chips
+youtube.com###content > ytd-mini-guide-renderer.style-scope.ytd-app:nth-child(3)
+youtube.com###secondary
+youtube.com###channel-info > a.style-scope.ytd-video-renderer:first-child > yt-img-shadow.style-scope.ytd-video-renderer.no-transition
+youtube.com###expandable-metadata > ytd-expandable-metadata-renderer.style-scope.ytd-video-renderer
+youtube.com###dismissible > div.text-wrapper.style-scope.ytd-video-renderer:last-child > div.metadata-snippet-container.style-scope.ytd-video-renderer:nth-child(4)
+youtube.com###channel-info
+youtube.com###container > ytd-button-renderer.style-scope.ytd-search-sub-menu-renderer.style-text.size-default:nth-child(2) > a.yt-simple-endpoint.style-scope.ytd-button-renderer
+youtube.com###hover-overlays
+youtube.com###button > yt-icon.style-scope.ytd-menu-renderer > svg.style-scope.yt-icon > g.style-scope.yt-icon
+youtube.com###page-manager > ytd-browse.style-scope.ytd-page-manager:first-child
+youtube.com###avatar
+youtube.com###endpoint > tp-yt-paper-item.style-scope.ytd-guide-entry-renderer
+youtube.com###sections > ytd-guide-signin-promo-renderer.style-scope.ytd-guide-renderer:nth-child(3)
+youtube.com###sections
+youtube.com###related
+youtube.com###always-shown
+youtube.com###guide-links-secondary
+youtube.com###guide-links-primary
+youtube.com###copyright
+youtube.com###guide-inner-content
+youtube.com###contentContainer
+youtube.com###scrim
+youtube.com###guide
+youtube.com###top-level-buttons-computed
+blenderbot.ai###root > div.sc-gsnTZi.sc-dIouRR.bofiqy.iDNMTt > div.sc-gsnTZi.sc-bjUoiL.bofiqy.ilORAH > div.sc-bczRLJ.sc-olbas.ecDaLY.hzEvDr:last-child
+blenderbot-ai.translate.goog###root > div.sc-gsnTZi.sc-dIouRR.bofiqy.iDNMTt > div.sc-gsnTZi.sc-bjUoiL.bofiqy.ilORAH > div.sc-bczRLJ.sc-kIKDeO.ecDaLY.eQyWdM:last-child
+blenderbot.ai###root > div.sc-gsnTZi.sc-dIouRR.bofiqy.iDNMTt > div.sc-gsnTZi.sc-bjUoiL.bofiqy.ilORAH > div.sc-bczRLJ.sc-kIKDeO.ecDaLY.eQyWdM:last-child
+blenderbot.ai###root > div.sc-gsnTZi.sc-dIouRR.bofiqy.iDNMTt > div.sc-gsnTZi.sc-bjUoiL.bofiqy.ilORAH > div.sc-bczRLJ.sc-ehmTmK.ecDaLY.hvfSlR:first-child > div.sc-gsnTZi.sc-lbOyJj.bofiqy.hKflCn > span.ant-typography.sc-gFGZVQ.kcPpmo
+blenderbot.ai###root > div.sc-gsnTZi.sc-dIouRR.bofiqy.iDNMTt > div.sc-gsnTZi.sc-bjUoiL.bofiqy.ilORAH > div.sc-bczRLJ.sc-ehmTmK.ecDaLY.hvfSlR:first-child > div.sc-gsnTZi.sc-lbOyJj.bofiqy.hKflCn
+beta.dreamstudio.ai###kt_content_container > div > div.cost-div:first-child > span
+beta.dreamstudio.ai###kt_aside
+beta.dreamstudio.ai###kt_header
+libreddit.de##.award
+reddit.com###\32 x-container
+lingva.ml###__next > div.chakra-stack.css-49i6v4:nth-child(2) > footer.chakra-stack.css-to4y2x:last-child
+lingva.ml###__next > div.chakra-stack.css-49i6v4:nth-child(2) > header.css-1djx79t:first-child > div.chakra-stack.css-rmxdag:last-child > a.chakra-link.chakra-button.css-15pwpr1:last-child
+librex.extravi.dev##div.footer-container:nth-child(6) > a:last-child
+##div.footer-container:nth-child(3) > a:last-child(5)
+librex.extravi.dev##div.footer-container:nth-child(3) > a:last-child
+librex.extravi.dev##.footer-container
+! 2023-05-05 https://gitlab.com
+gitlab.com##.indigo.js-broadcast-notification-100974.banner.broadcast-banner-message.gl-broadcast-message
