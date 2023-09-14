@@ -6,9 +6,11 @@ so I am trying to make result of my rules family-/child-friendly and as much sen
 
 ### how-to
 
-- just add the following url into your adblocker:
+- just copy and paste the following url into your adblocker:
 
-`https://github.com/mounta11n/nokta/Filterlist/Autix.txt`
+```
+https://raw.githubusercontent.com/mounta11n/nokta/main/Filterlist/Autix.txt
+```
 
 - i highly (!) recommend [µBlocker Origin](https://github.com/gorhill/uBlock/)
 - if you can't use µBlock Origin (perhaps because you are on safari), my second recommendation is adguard adblocker.
