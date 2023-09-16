@@ -4,3 +4,8 @@
 ### Colors and more
 ---
 ![Nord Colors](/nord-colors.svg)
+
+
+### VIM
+---
+![Vim Dashboard](/vim-dashboard.jpg)

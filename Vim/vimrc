@@ -12,10 +12,9 @@ call plug#end()
 " load in right order
 autocmd VimEnter *
             \   if !argc()
-            \ |   Startify
-            \ |   NERDTree
-            \ |   wincmd w
-            \ | endif
+autocmd VimEnter * if !argc() | Startify | endif
+autocmd VimEnter * if !argc() | NERDTree | endif
+autocmd VimEnter * if !argc() | wincmd w | endif
 
 " fix N debug
 set sessionoptions-=blank
