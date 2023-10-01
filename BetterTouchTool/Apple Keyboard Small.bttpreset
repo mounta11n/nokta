@@ -1,0 +1,65 @@
+{
+  "BTTPresetCreatorNotes" : "",
+  "BTTPresetInfoURL" : "",
+  "BTTPresetName" : "Apple Keyboard Small",
+  "BTTPresetColor" : "12.596881, 129.768813, 255.000000, 255.000000",
+  "BTTPresetUUID" : "6706E967-9514-4C97-942D-00C2BD1E2E65",
+  "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "BT.G",
+      "BTTAppName" : "Global",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTTriggers" : [
+        {
+          "BTTLastUpdatedAt" : 1662131750.484427,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTLayoutIndependentActionChar" : "v",
+          "BTTAutoAdaptActionToKeyboardLayout" : true,
+          "BTTShortcutToSend" : "58,55,9",
+          "BTTAdditionalConfiguration" : "0",
+          "BTTKeyboardShortcutKeyboardType" : 1568,
+          "BTTUUID" : "912884F7-F7F9-4A53-B33A-613799A2277C",
+          "BTTTriggerOnDown" : 1,
+          "BTTLayoutIndependentChar" : "",
+          "BTTEnabled" : 1,
+          "BTTEnabled2" : 1,
+          "BTTShortcutKeyCode" : 1014,
+          "BTTShortcutModifierKeys" : 0,
+          "BTTOrder" : 5,
+          "BTTAutoAdaptToKeyboardLayout" : 0
+        },
+        {
+          "BTTLastUpdatedAt" : 1695397502.3190088,
+          "BTTTriggerType" : 0,
+          "BTTTriggerClass" : "BTTTriggerTypeKeyboardShortcut",
+          "BTTLayoutIndependentActionChar" : "DELETE",
+          "BTTAutoAdaptActionToKeyboardLayout" : true,
+          "BTTShortcutToSend" : "55,51",
+          "BTTAdditionalConfiguration" : "8388608",
+          "BTTKeyboardShortcutKeyboardType" : 0,
+          "BTTUUID" : "DA418704-B9A6-4B2E-8F8B-1FAE6C8DEE1B",
+          "BTTTriggerOnDown" : 1,
+          "BTTLayoutIndependentChar" : "FORWARD DELETE",
+          "BTTEnabled" : 1,
+          "BTTEnabled2" : 1,
+          "BTTShortcutKeyCode" : 117,
+          "BTTShortcutModifierKeys" : 8388608,
+          "BTTOrder" : 4,
+          "BTTAutoAdaptToKeyboardLayout" : 0
+        }
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTTriggers" : [
+
+      ]
+    }
+  ],
+  "BTTPresetSnapAreas" : [
+
+  ]
+}

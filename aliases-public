@@ -7,6 +7,7 @@ alias cl='clear'
 alias echopath='echo $PATH | tr ":" "\n"'
 alias modx='chmod +x'
 alias src="source ~/.zshrc"
+alias simsalabim="ssh-keygen -t ed25519"
 
 ### change directories
 alias ..='cd .. && l'
@@ -61,6 +62,11 @@ alias bre="brew search"
 alias brs="brew search"
 alias bru="brew install"
 alias bra="brew install"
+
+### Rundpod
+alias pod="runpodctl"
+alias podpod="runpodctl get pod"
+alias podcld="runpodctl get cloud"
 
 ### things
 alias tad="things add"
