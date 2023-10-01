@@ -1,4 +1,6 @@
-
+# We depend on vcs_info module for git section.
+# Seems like vcs_info is packaged separately on alpine.
+# apk add zsh-vcs loads the required module.
 
 export ZSH="$HOME/.oh-my-zsh" # Path to your oh-my-zsh installation.
 export SYNGIT=""
