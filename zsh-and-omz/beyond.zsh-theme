@@ -2,17 +2,17 @@
 # based on "bira" and "half-life" themes
 
 # define in .zshrc for each of your hosts a custom string
-if [[ -z "$CUSTOM_ID" ]]; then
-    echo "export CUSTOM_ID='your_id_here'" >> $HOME/.zshrc
-    export CUSTOM_ID='your_id_here'
-fi
+#if [[ -z "$CUSTOM_ID" ]]; then
+#    echo "export CUSTOM_ID='your_id_here'" >> $HOME/.zshrc
+#    export CUSTOM_ID='your_id_here'
+#fi
 
 # a tiny hack to make the prompt style even with conda ens possible
-if [[ "$PROMPT_MODDED_TRUE" != 1 ]]; then
-    echo "export PROMPT='╭─$PROMPT'" >> $HOME/.zshrc
-    echo "export PROMPT_MODDED_TRUE=1" >> $HOME/.zshrc
-    export PROMPT_MODDED_TRUE=1
-fi
+#if [[ "$PROMPT_MODDED_TRUE" != 1 ]]; then
+#    echo "export PROMPT='╭─$PROMPT'" >> $HOME/.zshrc
+#    echo "export PROMPT_MODDED_TRUE=1" >> $HOME/.zshrc
+#    export PROMPT_MODDED_TRUE=1
+#fi
 
 #use extended color palette if available
 if [[ $TERM = (*256color|*rxvt*|*kitty*) ]]; then
