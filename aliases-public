@@ -186,4 +186,5 @@ alias mus='mpg321 -B -Z -K -l 0 ./'
 alias nn='nnn -d -H -e'
 alias tiva='tiv *.(jpg|jpeg|bmp|png)'
 alias v="vim"
+alias nv="nvim"
 alias vol='m volume'
