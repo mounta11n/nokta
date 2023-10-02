@@ -16,7 +16,7 @@ alias ....='cd ../../.. && l'
 
 ### configure (you can take $EDITOR instead of vim)
 alias cf3="vim /root/.config/i3/config"
-alias cfa="vim ~/syngit/nokta/aliases"
+alias cfa="vim ~/Syngit/nokta/aliases"
 alias cfp="vim ~/etc/profile"
 alias cfz="vim ~/.zshrc" 
 
