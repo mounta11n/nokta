@@ -20,6 +20,9 @@ alias cfa="vim ~/Syngit/nokta/aliases"
 alias cfp="vim ~/etc/profile"
 alias cfz="vim ~/.zshrc" 
 
+# docker
+alias dockers='docker ps --format "table {{.ID}}\t{{.Names}}\t{{.Status}}\t{{.Ports}}"'
+
 ### list files
 alias l="exa -a -F --group-directories-first"
 alias le="exa -T -L=1 -a -F --group-directories-first"
