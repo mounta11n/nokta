@@ -188,3 +188,4 @@ alias tiva='tiv *.(jpg|jpeg|bmp|png)'
 alias v="vim"
 alias nv="nvim"
 alias vol='m volume'
+alias choin="bitcoin-chart-cli --coin"
