@@ -4,6 +4,7 @@
 
 alias _="sudo"
 alias cl='clear'
+alias xx="exit"
 alias echopath='echo $PATH | tr ":" "\n"'
 alias modx='chmod +x'
 alias src="source ~/.zshrc"
@@ -16,7 +17,7 @@ alias ....='cd ../../.. && l'
 
 ### configure (you can take $EDITOR instead of vim)
 alias cf3="vim /root/.config/i3/config"
-alias cfa="vim ~/Syngit/nokta/aliases"
+alias cfa="vim ~/Syngit/nokta/aliases-public"
 alias cfp="vim ~/etc/profile"
 alias cfz="vim ~/.zshrc" 
 
@@ -175,8 +176,10 @@ alias cell='zellij ls'
 alias cels='zellij -s'
 
 ### tmux
+alias tmx="tmux"
 alias tma="tmux attach"
 alias tml="tmux ls"
+alias tmkl="tmux kill-session"
 alias tmn="tmux new -s"
 alias tms="tmux new -s -2"
 
@@ -189,6 +192,7 @@ alias mus='mpg321 -B -Z -K -l 0 ./'
 alias nn='nnn -d -H -e'
 alias tiva='tiv *.(jpg|jpeg|bmp|png)'
 alias v="vim"
+alias vim="nvim"
 alias nv="nvim"
 alias vol='m volume'
 alias choin="bitcoin-chart-cli --coin"
