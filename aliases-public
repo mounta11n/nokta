@@ -184,15 +184,19 @@ alias tmn="tmux new -s"
 alias tms="tmux new -s -2"
 
 ### launchers
-alias btop='btop -lc'
+#alias btop='btop -lc'
 alias fck='fuck'
 alias libdl='libgen-downloader'
-alias mail='pymailtm'
+alias pymail='pymailtm'
 alias mus='mpg321 -B -Z -K -l 0 ./'
 alias nn='nnn -d -H -e'
+alias tv="tiv -0"
 alias tiva='tiv *.(jpg|jpeg|bmp|png)'
+alias stiv="stiv -t"
+alias stv="stiv -n"
 alias v="vim"
-alias vim="nvim"
+alias vim="vim"
 alias nv="nvim"
 alias vol='m volume'
 alias choin="bitcoin-chart-cli --coin"
+alias ipmap="iponmap $(curl -S http://ipinfo.io/ip)"
