@@ -17,7 +17,7 @@ alias ....='cd ../../.. && l'
 
 ### configure (you can take $EDITOR instead of vim)
 alias cf3="vim /root/.config/i3/config"
-alias cfa="vim ~/Syngit/nokta/aliases-public"
+alias cfa="vim ~/syngit/nokta/aliases-public"
 alias cfp="vim ~/etc/profile"
 alias cfz="vim ~/.zshrc" 
 
@@ -47,6 +47,9 @@ alias gull="git pull"
 alias gush="git push"
 alias wasgit='git status'
 alias yolo='git commit -m "$(curl -s https://whatthecommit.com/index.txt)"'
+
+alias zij="zellij"
+alias nv="nvim"
 
 ### apk (alpine linux)
 #alias apu="apk update"
