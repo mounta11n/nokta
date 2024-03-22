@@ -9,6 +9,7 @@ alias echopath='echo $PATH | tr ":" "\n"'
 alias modx='chmod +x'
 alias src="source ~/.zshrc"
 alias sshimsalabim="ssh-keygen -t ed25519"
+alias simsalabim="ssh-keygen -t ed25519"
 
 ### change directories
 alias ..='cd .. && l'
@@ -16,19 +17,23 @@ alias ...='cd ../.. && l'
 alias ....='cd ../../.. && l'
 
 ### configure (you can take $EDITOR instead of vim)
-alias cf3="vim /root/.config/i3/config"
-alias cfa="vim ~/syngit/nokta/aliases-public"
-alias cfp="vim ~/etc/profile"
-alias cfz="vim ~/.zshrc" 
+alias cf3="nvim /root/.config/i3/config"
+alias cfa="nvim ~/syngit/nokta/aliases-public"
+alias cfp="nvim ~/etc/profile"
+alias cfz="nvim ~/.zshrc" 
 
-# docker
+### scripts
+alias setenv-blank="$SYNGIT/automations/scripts/cp-autoenv-blank.sh"
+alias setenv-venv="$SYNGIT/automations/scripts/cp-autoenv-venv.sh"
+
+### docker
 alias dockers='docker ps --format "table {{.ID}}\t{{.Names}}\t{{.Status}}\t{{.Ports}}"'
 
 ### list files
 alias l="exa -a -F --group-directories-first"
 alias le="exa -T -L=1 -a -F --group-directories-first"
-alias ll="exa -a -l -F --group-directories-first --git --no-filesize --no-time"
-alias lll="exa -h -a -l -F --group-directories-first --color-scale --git -H -S -@"
+alias ll="exa -a -l -F --group-directories-first --no-filesize --no-time"
+alias lll="exa -h -a -l -F --group-directories-first --color-scale -H -S -@"
 alias ttt="tree -d -L 3"
 alias tt="tree -L 2"
 alias t="tree -a -L 1"
@@ -37,6 +42,7 @@ alias t="tree -a -L 1"
 alias gita="python3 -m gita"
 alias ga="git add ."
 alias gc="git clone"
+alias gcl="git clone"
 alias gm="git commit -m"
 alias gac="git add . && git commit -m"
 alias gam="git add . && git commit -m"
@@ -46,10 +52,13 @@ alias glc="git lfs clone"
 alias gull="git pull"
 alias gush="git push"
 alias wasgit='git status'
-alias yolo='git commit -m "$(curl -s https://whatthecommit.com/index.txt)"'
+alias yolo='git add . && git commit -m "$(curl -s https://whatthecommit.com/index.txt)"'
 
 alias zij="zellij"
 alias nv="nvim"
+
+### pip
+alias pipi="pip install"
 
 ### apk (alpine linux)
 #alias apu="apk update"
@@ -58,16 +67,22 @@ alias nv="nvim"
 #alias apw="bat /etc/apk/world"
 
 ### apt (ubuntu)
-#alias agu="apt update"
-#alias agg="apt upgrade"
-#alias ags="apt search"
-#alias agi="apt install"
+alias apdate="apt update"
+alias aptdate="apt update"
+alias apgrade="apt upgrade"
+alias aptgrade="apt upgrade"
+alias sapgrade="sudo apt upgrade"
+alias saptgrade="sudo apt upgrade"
+alias apts="apt search"
+alias apti="apt install"
+alias sapti="sudo apt install"
 
-### homebrew (macos)
-#alias bre="brew search"
-#alias brs="brew search"
-#alias bru="brew install"
-#alias bra="brew install"
+### homebrew (macos et linux)
+alias bre="brew search"
+alias brs="brew search"
+alias bres="brew search"
+alias bru="brew install"
+alias bra="brew install"
 
 
 # Package Managers
@@ -168,7 +183,7 @@ alias tto="things-cli today"
 alias tan="things-cli anytime"
 
 ### cowsay
-alias cs="cowsay -f moose"
+alias csy="cowsay -f moose"
 alias fcs="fortune | cowsay -f moose"
 alias lol='lolcat'
 
@@ -187,7 +202,7 @@ alias tmn="tmux new -s"
 alias tms="tmux new -s -2"
 
 ### launchers
-#alias btop='btop -lc'
+alias btop='btop -lc'
 alias fck='fuck'
 alias libdl='libgen-downloader'
 alias pymail='pymailtm'
@@ -197,14 +212,27 @@ alias tv="tiv -0"
 alias tiva='tiv *.(jpg|jpeg|bmp|png)'
 alias stiv="stiv -t"
 alias stv="stiv -n"
-alias v="vim"
-alias vim="vim"
+alias v="nvim"
 alias nv="nvim"
 alias vol='m volume'
 alias choin="bitcoin-chart-cli --coin"
 alias ipmap="iponmap $(curl -S http://ipinfo.io/ip)"
-alias olla="ollama"
-alias ollar="ollama run"
-alias ollac="ollama create"
-alias ollal="ollama list"
+alias ola="ollama"
+alias olar="ollama run"
+alias olac="ollama create"
+alias olal="ollama list"
+alias py3="python3"
+alias penv="python3 -m venv 'venv'"
+alias penva="python3 -m venv 'venv' && source venv/bin/activate"
+alias cheat="sh $HOME/syngit/automations/scripts/cheat-sheet.sh"
 
+### functions
+alias pip='function _pip(){
+    if [ $1 = "search" ]; then
+        pip_search "$2";
+    else pip "$@";
+    fi;
+};_pip'
+
+alias apt="nala"
+alias nala="sudo nala"
