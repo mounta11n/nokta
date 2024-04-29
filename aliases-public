@@ -23,8 +23,8 @@ alias cfp="nvim ~/etc/profile"
 alias cfz="nvim ~/.zshrc" 
 
 ### scripts
-alias setenv-blank="$SYNGIT/automations/scripts/cp-autoenv-blank.sh"
-alias setenv-venv="$SYNGIT/automations/scripts/cp-autoenv-venv.sh"
+#alias setenv-blank="$SYNGIT/automations/scripts/cp-autoenv-blank.sh"
+#alias setenv-venv="$SYNGIT/automations/scripts/cp-autoenv-venv.sh"
 
 ### docker
 alias dockers='docker ps --format "table {{.ID}}\t{{.Names}}\t{{.Status}}\t{{.Ports}}"'
@@ -85,91 +85,6 @@ alias bru="brew install"
 alias bra="brew install"
 
 
-# Package Managers
-case $WHICH_DEVICE in
-  DEV_1)
-    alias apk='brew'
-    alias apd='brew install'
-    alias apr='brew uninstall'
-    alias aps="brew search"
-    alias apu="brew update"
-    alias apw="brew list"
-    ;;
-  DEV_2)
-    alias apk='brew'
-    alias apd='brew install'
-    alias apr='brew uninstall'
-    alias aps="brew search"
-    alias apu="brew update"
-    alias apw="brew list"
-    ;;
-  DEV_3)
-    alias apk='brew'
-    alias apd='brew install'
-    alias apr='brew uninstall'
-    alias aps="brew search"
-    alias apu="brew update"
-    alias apw="brew list"
-    ;;
-  DEV_4)
-    alias apk='brew'
-    alias apd='brew install'
-    alias apr='brew uninstall'
-    alias aps="brew search"
-    alias apu="brew update"
-    alias apw="brew list"
-    ;;
-  DEV_5)
-    alias apk='brew'
-    alias apd='brew install'
-    alias apr='brew uninstall'
-    alias aps="brew search"
-    alias apu="brew update"
-    alias apw="brew list"
-    ;;
-  DEV_6)
-    alias apd="apk add"
-    alias apr='apk del'
-    alias aps="apk search"
-    alias apu="apk update"
-    alias apw="bat /etc/apk/world"
-    ;;
-  DEV_7)
-    alias apk='pkg'
-    alias apd='pkg install'
-    alias apr='pkg remove'
-    alias aps='pkg search'
-    alias apu='help -l'
-    alias apw='pkg list'
-    ;;
-  DEV_8)
-    alias apk='brew'
-    alias apd='brew install'
-    alias apr='brew uninstall'
-    alias aps="brew search"
-    alias apu="brew update"
-    alias apw="brew list"
-    ;;
-  DEV_9)
-    alias apk='apt'
-    alias apd='apt install'
-    alias apr='apt remove'
-    alias aps='apt search'
-    alias apu='apt update'
-    alias apw='dpkg -l'
-    ;;
-  DEV_10)
-    alias apd="apk add"
-    alias apr='apk del'
-    alias aps="apk search"
-    alias apu="apk update"
-    alias apw="bat /etc/apk/world"
-    ;;
-  *)
-    echo "Unbekanntes Gerät: $WHICH_DEVICE"
-    ;;
-esac
-
 ### Rundpod
 alias pod="runpodctl"
 alias podpod="runpodctl get pod"
@@ -215,8 +130,8 @@ alias stv="stiv -n"
 alias v="nvim"
 alias nv="nvim"
 alias vol='m volume'
-alias choin="bitcoin-chart-cli --coin"
-alias ipmap="iponmap $(curl -S http://ipinfo.io/ip)"
+#alias choin="bitcoin-chart-cli --coin"
+#alias ipmap="iponmap $(curl -S http://ipinfo.io/ip)"
 alias ola="ollama"
 alias olar="ollama run"
 alias olac="ollama create"
@@ -234,5 +149,5 @@ alias pip='function _pip(){
     fi;
 };_pip'
 
-alias apt="nala"
-alias nala="sudo nala"
+#alias apt="nala"
+#alias nala="sudo nala"
