@@ -151,3 +151,11 @@ alias pip='function _pip(){
 
 #alias apt="nala"
 #alias nala="sudo nala"
+
+alias pwgn="pwgen -c -n -B -C -1 -C"
+
+alias fastfetch="fastfetch --config $HOME/.config/fastfetch/presets/examples/10.jsonc"
+
+alias tarr="/home/yazan/syngit/automations/enabled/tar-archive.sh"
+
+
