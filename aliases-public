@@ -158,4 +158,5 @@ alias fastfetch="fastfetch --config $HOME/.config/fastfetch/presets/examples/10.
 
 alias tarr="/home/yazan/syngit/automations/enabled/tar-archive.sh"
 
+alias ytm="yt-dlp -x --audio-format mp3 --default-search auto"
 
