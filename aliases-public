@@ -16,7 +16,9 @@ alias ..='cd .. && l'
 alias ...='cd ../.. && l'
 alias ....='cd ../../.. && l'
 
-### configure (you can take $EDITOR instead of vim)
+alias cdcfg="cd $HOME/.config"
+alias cdbrn="cd $HOME/Deepbrain"
+
 alias cf3="nvim /root/.config/i3/config"
 alias cfa="nvim ~/syngit/nokta/aliases-public"
 alias cfp="nvim ~/etc/profile"
@@ -158,5 +160,12 @@ alias fastfetch="fastfetch --config $HOME/.config/fastfetch/presets/examples/10.
 
 alias tarr="/home/yazan/syngit/automations/enabled/tar-archive.sh"
 
+alias cht="cht.sh"
+
+alias ytl="yt-dlp --list-formats"
 alias ytm="yt-dlp -x --audio-format mp3 --default-search auto"
+alias ytv="yt-dlp --format"
+alias yt="yt-dlp --format 18"
+
+alias hf-cli="huggingface-cli"
 
