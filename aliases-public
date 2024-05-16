@@ -5,6 +5,7 @@
 alias _="sudo"
 alias cl='clear'
 alias xx="exit"
+alias ww="which"
 alias echopath='echo $PATH | tr ":" "\n"'
 alias modx='chmod +x'
 alias src="source ~/.zshrc"
@@ -19,23 +20,25 @@ alias ....='cd ../../.. && l'
 alias cdcfg="cd $HOME/.config"
 alias cdbrn="cd $HOME/Deepbrain"
 
-alias cf3="nvim /root/.config/i3/config"
-alias cfa="nvim ~/syngit/nokta/aliases-public"
-alias cfp="nvim ~/etc/profile"
-alias cfz="nvim ~/.zshrc" 
+alias cf3="vim /root/.config/i3/config"
+alias cfa="vim ~/syngit/nokta/aliases-public"
+alias cfp="vim ~/etc/profile"
+alias cfz="vim ~/.zshrc" 
 
 ### scripts
 #alias setenv-blank="$SYNGIT/automations/scripts/cp-autoenv-blank.sh"
 #alias setenv-venv="$SYNGIT/automations/scripts/cp-autoenv-venv.sh"
 
-### docker
+### docker/podman
 alias dockers='docker ps --format "table {{.ID}}\t{{.Names}}\t{{.Status}}\t{{.Ports}}"'
+alias pocker='podman'
+alias pockers='podman ps --format "table {{.ID}}\t{{.Names}}\t{{.Status}}\t{{.Ports}}"'
 
 ### list files
-alias l="exa -a -F --group-directories-first"
+alias l="exa -a -F --group-directories-first --icons=always"
 alias le="exa -T -L=1 -a -F --group-directories-first"
-alias ll="exa -a -l -F --group-directories-first --no-filesize --no-time"
-alias lll="exa -h -a -l -F --group-directories-first --color-scale -H -S -@"
+alias ll="exa -a -l -F -H --group-directories-first --no-filesize --no-time --icons=always"
+alias lll="exa -a -h -l -F -H -S --group-directories-first --color-scale --no-filesize -@ --icons=always"
 alias ttt="tree -d -L 3"
 alias tt="tree -L 2"
 alias t="tree -a -L 1"
@@ -57,7 +60,6 @@ alias wasgit='git status'
 alias yolo='git add . && git commit -m "$(curl -s https://whatthecommit.com/index.txt)"'
 
 alias zij="zellij"
-alias nv="nvim"
 
 ### pip
 alias pipi="pip install"
@@ -99,10 +101,11 @@ alias tin="things-cli inbox"
 alias tto="things-cli today"
 alias tan="things-cli anytime"
 
-### cowsay
+### cats colors cows & co
 alias csy="cowsay -f moose"
 alias fcs="fortune | cowsay -f moose"
 alias lol='lolcat'
+alias cat='bat'
 
 ### zellij
 alias cel='zellij'
@@ -129,7 +132,7 @@ alias tv="tiv -0"
 alias tiva='tiv *.(jpg|jpeg|bmp|png)'
 alias stiv="stiv -t"
 alias stv="stiv -n"
-alias v="nvim"
+alias v="vim"
 alias nv="nvim"
 alias vol='m volume'
 #alias choin="bitcoin-chart-cli --coin"
