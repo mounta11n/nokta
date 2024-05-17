@@ -172,3 +172,6 @@ alias yt="yt-dlp --format 18"
 
 alias hf-cli="huggingface-cli"
 
+alias diceware='diceware -w de_8k -d -'
+alias dw='diceware -w de_8k -d -'
+
