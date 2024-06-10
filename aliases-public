@@ -37,8 +37,8 @@ alias pockers='podman ps --format "table {{.ID}}\t{{.Names}}\t{{.Status}}\t{{.Po
 ### list files
 alias l="exa -a -F --group-directories-first --icons=always"
 alias le="exa -T -L=1 -a -F --group-directories-first"
-alias ll="exa -a -l -F -H --group-directories-first --no-filesize --no-time --icons=always"
-alias lll="exa -a -h -l -F -H -S --group-directories-first --color-scale --no-filesize -@ --icons=always"
+alias ll="exa -a -l -F -H --group-directories-first --no-filesize --color-scale --no-time --icons=always"
+alias lll="exa -a -h -l -F -H -b --group-directories-first --color-scale -@ --icons=always"
 alias ttt="tree -d -L 3"
 alias tt="tree -L 2"
 alias t="tree -a -L 1"
@@ -105,7 +105,7 @@ alias tan="things-cli anytime"
 alias csy="cowsay -f moose"
 alias fcs="fortune | cowsay -f moose"
 alias lol='lolcat'
-alias cat='bat'
+#alias cat='bat'
 
 ### zellij
 alias cel='zellij'
@@ -122,7 +122,7 @@ alias tmn="tmux new -s"
 alias tms="tmux new -s -2"
 
 ### launchers
-alias btop='btop -lc'
+#alias btop='btop -lc'
 alias fck='fuck'
 alias libdl='libgen-downloader'
 alias pymail='pymailtm'
